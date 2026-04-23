@@ -70,7 +70,7 @@ HP40A-Firmware-Flasher/
 5. Chờ quá trình hoàn tất (không ngắt kết nối USB)
 6. Thiết bị sẽ khởi động lại tự động
 
-**Lưu ý*: Quá trình flash nếu hiện thông báo: <any device> thì rút nguồn thiết bị>cắm nguồn>mở device manager trên máy tính>chọn thiết bị có dấu chấm than>cập nhật driver>chọn driver ở thư mục `Tool Driver/usb_driver`. Sau đó chạy lại `HP40a.bat`.
+**Lưu ý*: Quá trình flash nếu hiện thông báo: `<... any device>` thì rút nguồn thiết bị>cắm nguồn>mở device manager trên máy tính>chọn thiết bị có dấu chấm than>cập nhật driver>chọn driver ở thư mục `Tool Driver/usb_driver`. Sau đó chạy lại `HP40a.bat`.
 
 ### Bước 3: Cấu Hình Ban Đầu
 
